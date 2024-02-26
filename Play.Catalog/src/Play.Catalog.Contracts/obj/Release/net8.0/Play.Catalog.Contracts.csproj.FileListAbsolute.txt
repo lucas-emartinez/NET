@@ -1,0 +1,11 @@
+/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/bin/Release/net8.0/Play.Catalog.Contracts.deps.json
+/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/bin/Release/net8.0/Play.Catalog.Contracts.dll
+/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/bin/Release/net8.0/Play.Catalog.Contracts.pdb
+/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/obj/Release/net8.0/Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/obj/Release/net8.0/Play.Catalog.Contracts.AssemblyInfoInputs.cache
+/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/obj/Release/net8.0/Play.Catalog.Contracts.AssemblyInfo.cs
+/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/obj/Release/net8.0/Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/obj/Release/net8.0/Play.Catalog.Contracts.dll
+/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/obj/Release/net8.0/refint/Play.Catalog.Contracts.dll
+/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/obj/Release/net8.0/Play.Catalog.Contracts.pdb
+/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/obj/Release/net8.0/ref/Play.Catalog.Contracts.dll

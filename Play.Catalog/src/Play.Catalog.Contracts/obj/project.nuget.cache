@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMOCcBvHUuErZAwyHCzbpjCAbE9hVo/kZmSBlssOf1U1yb7N6t7OcN22lJ6ib2jUzl9kXHs5JLMlfImXz+6aFQ==",
+  "success": true,
+  "projectFilePath": "/Users/lucasmartinez/Desktop/NET_CURSO/Play.Catalog/src/Play.Catalog.Contracts/Play.Catalog.Contracts.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/lucasmartinez/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied."
+    }
+  ]
+}
